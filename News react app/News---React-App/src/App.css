@@ -1,0 +1,76 @@
+.container {
+  
+    display: flex;    
+    /* border: 8px solid black; */
+    height: 80vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+   
+}
+ 
+img{
+  height: 200px;
+}
+
+.DivHeadertwo{
+ 
+  background-color: lightgray;
+  width: 50%;
+}
+
+.DivHeaderOne{
+  
+  background-color: lightgray;
+  width: 50%;
+}
+
+.box1{
+  
+  /* background-color: blue; */
+  background-color: white;
+  width: 50%;
+}
+
+.box2{
+
+  /* background-color: red; */
+  background-color: white;
+  width: 50%;
+}
+
+.box3{
+
+  /* background-color: pink; */
+  background-color: white;
+  width: 50%;
+}
+
+.box4{
+  
+  /* background-color: yellow; */
+  background-color: white;
+  width: 50%;
+}
+
+.box5{
+  
+  /* background-color: green; */
+  background-color: white;
+  width: 50%;
+}
+
+.box6{
+  
+  /* background-color:purple; */
+  background-color: white;
+  width: 50%;
+}
+
+H1{
+  
+}
+
+.App{
+ background-color: lightgray;
+}
